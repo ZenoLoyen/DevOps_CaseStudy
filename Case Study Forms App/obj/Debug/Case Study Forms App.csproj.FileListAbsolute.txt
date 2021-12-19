@@ -1,0 +1,17 @@
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\bin\Debug\Case Study Forms App.exe.config
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\bin\Debug\Case Study Forms App.exe
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\bin\Debug\Case Study Forms App.pdb
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\bin\Debug\WebDriver.dll
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.csproj.AssemblyReference.cache
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case_Study_Forms_App.Properties.Resources.resources
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.csproj.GenerateResource.cache
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.csproj.CoreCompileInputs.cache
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.csproj.CopyComplete
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.exe
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case Study Forms App.pdb
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\bin\Debug\WebDriver.Support.dll
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case_Study_Forms_App.Indeed.resources
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case_Study_Forms_App.Homepage.resources
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case_Study_Forms_App.YouTube.resources
+C:\Users\zenol\source\repos\Case Study Forms App\Case Study Forms App\obj\Debug\Case_Study_Forms_App.Cars.resources
