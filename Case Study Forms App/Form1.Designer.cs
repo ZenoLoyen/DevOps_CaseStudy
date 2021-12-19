@@ -41,7 +41,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(441, 275);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(132, 50);
             this.button1.TabIndex = 0;
@@ -53,7 +53,7 @@
             // 
             this.Joblist.FormattingEnabled = true;
             this.Joblist.Location = new System.Drawing.Point(9, 49);
-            this.Joblist.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Joblist.Margin = new System.Windows.Forms.Padding(2);
             this.Joblist.Name = "Joblist";
             this.Joblist.Size = new System.Drawing.Size(410, 277);
             this.Joblist.TabIndex = 1;
@@ -61,7 +61,7 @@
             // jobSearch
             // 
             this.jobSearch.Location = new System.Drawing.Point(441, 64);
-            this.jobSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.jobSearch.Margin = new System.Windows.Forms.Padding(2);
             this.jobSearch.Name = "jobSearch";
             this.jobSearch.Size = new System.Drawing.Size(133, 20);
             this.jobSearch.TabIndex = 2;
@@ -89,7 +89,7 @@
             // locatieSearch
             // 
             this.locatieSearch.Location = new System.Drawing.Point(441, 142);
-            this.locatieSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.locatieSearch.Margin = new System.Windows.Forms.Padding(2);
             this.locatieSearch.Name = "locatieSearch";
             this.locatieSearch.Size = new System.Drawing.Size(133, 20);
             this.locatieSearch.TabIndex = 5;
@@ -127,9 +127,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.jobSearch);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Indeed";
-            this.Text = "Case Study";
+            this.Text = "Indeed";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

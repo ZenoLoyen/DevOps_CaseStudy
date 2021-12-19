@@ -40,7 +40,7 @@
             // btnJobs
             // 
             this.btnJobs.Location = new System.Drawing.Point(218, 250);
-            this.btnJobs.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnJobs.Margin = new System.Windows.Forms.Padding(2);
             this.btnJobs.Name = "btnJobs";
             this.btnJobs.Size = new System.Drawing.Size(142, 81);
             this.btnJobs.TabIndex = 0;
@@ -51,7 +51,7 @@
             // btnCar
             // 
             this.btnCar.Location = new System.Drawing.Point(385, 250);
-            this.btnCar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnCar.Margin = new System.Windows.Forms.Padding(2);
             this.btnCar.Name = "btnCar";
             this.btnCar.Size = new System.Drawing.Size(142, 81);
             this.btnCar.TabIndex = 1;
@@ -62,7 +62,7 @@
             // btnYoutube
             // 
             this.btnYoutube.Location = new System.Drawing.Point(46, 250);
-            this.btnYoutube.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnYoutube.Margin = new System.Windows.Forms.Padding(2);
             this.btnYoutube.Name = "btnYoutube";
             this.btnYoutube.Size = new System.Drawing.Size(142, 81);
             this.btnYoutube.TabIndex = 2;
@@ -73,7 +73,7 @@
             // btnExit
             // 
             this.btnExit.Location = new System.Drawing.Point(529, 11);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(60, 40);
             this.btnExit.TabIndex = 3;
@@ -122,9 +122,9 @@
             this.Controls.Add(this.btnYoutube);
             this.Controls.Add(this.btnCar);
             this.Controls.Add(this.btnJobs);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Homepage";
-            this.Text = "Form2";
+            this.Text = "Case Study";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
