@@ -55,7 +55,7 @@
             this.btnCar.Name = "btnCar";
             this.btnCar.Size = new System.Drawing.Size(142, 81);
             this.btnCar.TabIndex = 1;
-            this.btnCar.Text = "Car Shoping";
+            this.btnCar.Text = "2dehands Auto\'s";
             this.btnCar.UseVisualStyleBackColor = true;
             this.btnCar.Click += new System.EventHandler(this.btnCar_Click);
             // 
@@ -87,7 +87,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.label1.Location = new System.Drawing.Point(213, 136);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(165, 25);
+            this.label1.Size = new System.Drawing.Size(131, 20);
             this.label1.TabIndex = 4;
             this.label1.Text = "DevOps & Security";
             // 
@@ -97,7 +97,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.label2.Location = new System.Drawing.Point(110, 87);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(394, 39);
+            this.label2.Size = new System.Drawing.Size(316, 31);
             this.label2.TabIndex = 5;
             this.label2.Text = "Case Study: Webscraper";
             // 
@@ -106,7 +106,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(505, 342);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(83, 15);
+            this.label3.Size = new System.Drawing.Size(76, 13);
             this.label3.TabIndex = 6;
             this.label3.Text = "© Zeno Loyen";
             // 
